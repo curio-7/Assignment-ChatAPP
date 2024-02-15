@@ -1,4 +1,4 @@
-# Realtime Chat Application
+# Simple Chat Application
 
 
 ## Introduction
